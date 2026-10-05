@@ -1,0 +1,10 @@
+node_modules
+dist
+dist-android
+android/
+*.keystore
+*.jks
+.env
+.env.*
+out/
+.DS_Store
